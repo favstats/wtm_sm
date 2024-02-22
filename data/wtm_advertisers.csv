@@ -1,8 +1,24 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
 812d06f6-7aff-4c1e-829c-5aa7282f0ef8,Partito Democratico Cristiano Sammarinese,2023-02-25T10:54:01.449Z,27813213-5ac6-45bc-b35f-f906bf81c87d,PDCS,San Marino,sm,293933027374272,Partito Democratico Cristiano Sammarinese,Facebook
 f56b489c-40db-4159-9524-fe2a781e9135,Rete Movimento Civico,2023-02-08T05:54:33.363Z,2ad34fb1-915a-41fa-9f2a-10e7020ab86f,RETE,San Marino,sm,1527006474233229,Rete Movimento Civico,Facebook
-5456767c-0d72-4e50-9899-dcfd3289a58f,Libera - San Marino,2023-10-24T05:07:14.018Z,b934fbd5-ca63-4a2e-a562-bd8ed6d8cb78,Lib,San Marino,sm,100835231341118,Libera - San Marino,Facebook
-13a4a09e-2f07-4cc7-b1ec-ac2d5b779d0c,Andrea Zafferani,2023-06-08T06:53:23.229Z,aacbc7a0-8bdb-46d6-ace2-a947bc2c9a90,RF,San Marino,sm,107034620838627,Andrea Zafferani,Facebook
+3833ba3b-bcb0-43d2-8acf-de45482838d8,Domani - Motus Liberi,2023-03-08T17:47:15.180Z,3c6d6b3c-e53f-4320-8b89-60605dad2bb4,Dom,San Marino,sm,232745653950621,Domani - Motus Liberi,Facebook
 16abe98e-458f-40eb-9e17-3d1c9cb1e795,Repubblica Futura,2023-05-01T06:53:25.880Z,fe057c43-27da-4ede-a1be-52d043895131,RF,San Marino,sm,925709164184642,Repubblica Futura,Facebook
 b866c9b3-d5a2-4836-a614-01596a46ba29,TOC TOC Scritti Corsari,2023-05-14T06:53:43.326Z,34f0bf89-8483-415d-b29d-960a76ce3aa5,RF,San Marino,sm,103270361668290,TOC TOC Scritti Corsari,Facebook
-3833ba3b-bcb0-43d2-8acf-de45482838d8,Domani - Motus Liberi,2023-03-08T17:47:15.180Z,3c6d6b3c-e53f-4320-8b89-60605dad2bb4,Dom,San Marino,sm,232745653950621,Domani - Motus Liberi,Facebook
+13a4a09e-2f07-4cc7-b1ec-ac2d5b779d0c,Andrea Zafferani,2023-06-08T06:53:23.229Z,aacbc7a0-8bdb-46d6-ace2-a947bc2c9a90,RF,San Marino,sm,107034620838627,Andrea Zafferani,Facebook
+5456767c-0d72-4e50-9899-dcfd3289a58f,Libera - San Marino,2023-10-24T05:07:14.018Z,b934fbd5-ca63-4a2e-a562-bd8ed6d8cb78,Lib,San Marino,sm,100835231341118,Libera - San Marino,Facebook
+5dce22a6-c94d-4246-b574-495cf8e6d858,Nicolò Govoni,2023-03-08T16:33:59.587Z,f950f984-d2a3-427b-8b24-dd2a480e7a7a,ZZZ,San Marino,sm,913264142097841,Nicolò Govoni,Facebook
+c7cf1e82-fbfb-4e20-8832-61912be35ef1,Serghey Magala Lo Zar del Trading,2023-11-09T05:07:03.107Z,c996fbf9-b503-445b-bea1-3ba5818cde4f,ZZZ,San Marino,sm,118601064672891,Serghey Magala Lo Zar del Trading,Facebook
+001cdb74-af38-4c67-a842-6fc80e8e193f,Tudor Language House,2023-09-17T05:07:07.841Z,6fc0318b-4297-4ed3-b25d-1602cc3e9bd8,ZZZ,San Marino,sm,110229424488738,Tudor Language House,Facebook
+c7bb1dd2-8633-496a-945f-3dd2b494d3b7,San Marino Tetti srl,2023-07-23T05:08:10.368Z,eeff5446-1c4e-4a01-8893-97b8078df574,ZZZ,San Marino,sm,1314261671945274,San Marino Tetti srl,Facebook
+f896348c-f1e4-42c7-9d3c-dddf2ff95157,Agave Care,2023-05-06T06:53:26.694Z,55ba5f4e-580c-441f-8343-f96f4658ce43,ZZZ,San Marino,sm,100740649593599,Agave Care,Facebook
+8d171fdb-063c-4bb7-a702-ea47c7fa1046,acarchitetturastudio,2023-07-17T10:10:49.740Z,9344e4f8-58d4-438a-8762-8c37945b9cb9,ZZZ,San Marino,sm,100486946081617,acarchitetturastudio,Facebook
+fc7716f7-aac9-480f-aa4d-f82d6b5fed6e,Reggini SpA,2023-03-12T10:53:54.261Z,cdc0cb17-17e2-47e2-b5a8-fc67552008a3,ZZZ,San Marino,sm,472664929477572,Reggini SpA,Facebook
+5f054506-a91b-4424-9b72-70c706d387e8,ASLEM,2023-11-13T05:08:01.746Z,bb35d5d2-eacf-47ed-89b1-f14b2f8035b9,ZZZ,San Marino,sm,1524382674522629,ASLEM,Facebook
+799e5688-b9c3-4c71-a123-ae2970dfbc6d,Agenzia per lo Sviluppo Economico - Camera di Commercio di San Marino,2023-03-24T10:53:50.167Z,a8d558cf-acae-465f-b513-4a1601480d39,ZZZ,San Marino,sm,609037225824447,Agenzia per lo Sviluppo Economico - Camera di Commercio di San Marino,Facebook
+6b0590c9-2662-456c-bee1-81f5235dc216,Repubblica di San Marino,2023-09-05T05:07:10.800Z,e5aabe67-0931-462b-971a-1ea0508a1e27,ZZZ,San Marino,sm,283326691184,Repubblica di San Marino,Facebook
+ce65f4f7-8646-4d6e-8de4-164ad3319e00,Cromaris Italia,2023-04-26T06:53:52.986Z,3d0c2439-9e12-44e5-916a-4b7750b6877a,ZZZ,San Marino,sm,101348011991472,Cromaris Italia,Facebook
+dbac447f-3662-4876-891c-d437a8c65547,quarta_di_copertina_,2023-07-22T05:07:59.986Z,679a2b18-a65d-4187-b10f-18e9849339c0,ZZZ,San Marino,sm,108037764198601,quarta_di_copertina_,Facebook
+1b89b503-71fa-4a47-8126-704a5efb6b6b,The Sun Music,2023-04-11T10:53:30.860Z,98074ed4-fea2-4bc0-a081-c28c3c67b26f,ZZZ,San Marino,sm,90101239894,The Sun Music,Facebook
+239f4a0c-8fee-4907-90c7-ab5012828b63,ZF Aftermarket,2023-04-17T08:02:54.787Z,8c0c3657-964d-43a6-aa2f-55a26fdbe27e,ZZZ,San Marino,sm,105564024181316,ZF Aftermarket,Facebook
+82076be1-c460-41ca-a5c8-2a2be8a9233a,Banca Agricola Commerciale Repubblica di San Marino,2023-03-29T10:53:46.897Z,533e610b-dab3-4bc3-9353-e2bbd5057353,ZZZ,San Marino,sm,541654909358592,Banca Agricola Commerciale Repubblica di San Marino,Facebook
+4f0a7b3a-0bfd-4e74-be50-bc9b84b32d29,Fabrizio Raggi Official,2023-11-18T05:07:15.929Z,cf6bedea-9ae6-4b6d-b64f-1713416b68eb,ZZZ,San Marino,sm,434891546667432,Fabrizio Raggi Official,Facebook
