@@ -1,4 +1,5 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
+53360c2e-e0cb-46c2-9385-a85bf61b8eeb,Solofakenews - La satira che fa riflettere,2024-01-14T05:06:26.481Z,44a958f6-4b6e-4a3f-9763-817363c9b184,ZZZ,San Marino,sm,158380394036178,Solofakenews - La satira che fa riflettere,Facebook
 812d06f6-7aff-4c1e-829c-5aa7282f0ef8,Partito Democratico Cristiano Sammarinese,2023-02-25T10:54:01.449Z,27813213-5ac6-45bc-b35f-f906bf81c87d,PDCS,San Marino,sm,293933027374272,Partito Democratico Cristiano Sammarinese,Facebook
 f56b489c-40db-4159-9524-fe2a781e9135,Rete Movimento Civico,2023-02-08T05:54:33.363Z,2ad34fb1-915a-41fa-9f2a-10e7020ab86f,RETE,San Marino,sm,1527006474233229,Rete Movimento Civico,Facebook
 3833ba3b-bcb0-43d2-8acf-de45482838d8,Domani - Motus Liberi,2023-03-08T17:47:15.180Z,3c6d6b3c-e53f-4320-8b89-60605dad2bb4,Dom,San Marino,sm,232745653950621,Domani - Motus Liberi,Facebook
@@ -24,5 +25,4 @@ c7cf1e82-fbfb-4e20-8832-61912be35ef1,Serghey Magala Lo Zar del Trading,2023-11-0
 fc7716f7-aac9-480f-aa4d-f82d6b5fed6e,Reggini SpA,2023-03-12T10:53:54.261Z,a628a5e9-ca03-4728-9fd1-bc4994a8d873,ZZZ,San Marino,sm,472664929477572,Reggini SpA,Facebook
 7a1d97a3-c581-4018-a65a-c64b68cdee52,Alessandro Lana,2024-01-19T05:06:52.184Z,e856cc6a-4b6a-4e50-b082-5fb4afbc0e15,ZZZ,San Marino,sm,115788111616219,Alessandro Lana,Facebook
 b10565f1-9336-442d-bfe9-fc69b5fa0321,TITANKA! Web Company Spa,2023-12-01T05:07:34.646Z,dc1ac054-aced-449f-8817-5f70a0336e29,ZZZ,San Marino,sm,226645684015510,TITANKA! Web Company Spa,Facebook
-53360c2e-e0cb-46c2-9385-a85bf61b8eeb,Solofakenews - La satira che fa riflettere,2024-01-14T05:06:26.481Z,44a958f6-4b6e-4a3f-9763-817363c9b184,ZZZ,San Marino,sm,158380394036178,Solofakenews - La satira che fa riflettere,Facebook
 d5ac0d84-bcbf-4d6c-af7b-daec356dace2,Cartiera Ciacci,2023-12-16T05:06:56.524Z,966a50d2-6123-44f4-a9e0-2f6a8baa3a39,ZZZ,San Marino,sm,128621190327177,Cartiera Ciacci,Facebook
