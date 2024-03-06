@@ -1,11 +1,12 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-5456767c-0d72-4e50-9899-dcfd3289a58f,Libera - San Marino,2023-10-24T05:07:14.018Z,b934fbd5-ca63-4a2e-a562-bd8ed6d8cb78,Lib,San Marino,sm,100835231341118,Libera - San Marino,Facebook
 812d06f6-7aff-4c1e-829c-5aa7282f0ef8,Partito Democratico Cristiano Sammarinese,2023-02-25T10:54:01.449Z,27813213-5ac6-45bc-b35f-f906bf81c87d,PDCS,San Marino,sm,293933027374272,Partito Democratico Cristiano Sammarinese,Facebook
 f56b489c-40db-4159-9524-fe2a781e9135,Rete Movimento Civico,2023-02-08T05:54:33.363Z,2ad34fb1-915a-41fa-9f2a-10e7020ab86f,RETE,San Marino,sm,1527006474233229,Rete Movimento Civico,Facebook
 3833ba3b-bcb0-43d2-8acf-de45482838d8,Domani - Motus Liberi,2023-03-08T17:47:15.180Z,3c6d6b3c-e53f-4320-8b89-60605dad2bb4,Dom,San Marino,sm,232745653950621,Domani - Motus Liberi,Facebook
 16abe98e-458f-40eb-9e17-3d1c9cb1e795,Repubblica Futura,2023-05-01T06:53:25.880Z,fe057c43-27da-4ede-a1be-52d043895131,RF,San Marino,sm,925709164184642,Repubblica Futura,Facebook
 b866c9b3-d5a2-4836-a614-01596a46ba29,TOC TOC Scritti Corsari,2023-05-14T06:53:43.326Z,34f0bf89-8483-415d-b29d-960a76ce3aa5,RF,San Marino,sm,103270361668290,TOC TOC Scritti Corsari,Facebook
 13a4a09e-2f07-4cc7-b1ec-ac2d5b779d0c,Andrea Zafferani,2023-06-08T06:53:23.229Z,aacbc7a0-8bdb-46d6-ace2-a947bc2c9a90,RF,San Marino,sm,107034620838627,Andrea Zafferani,Facebook
+5456767c-0d72-4e50-9899-dcfd3289a58f,Libera - San Marino,2023-10-24T05:07:14.018Z,b934fbd5-ca63-4a2e-a562-bd8ed6d8cb78,Lib,San Marino,sm,100835231341118,Libera - San Marino,Facebook
+53360c2e-e0cb-46c2-9385-a85bf61b8eeb,Solofakenews - La satira che fa riflettere,2024-01-14T05:06:26.481Z,44a958f6-4b6e-4a3f-9763-817363c9b184,ZZZ,San Marino,sm,158380394036178,Solofakenews - La satira che fa riflettere,Facebook
 6b0590c9-2662-456c-bee1-81f5235dc216,Repubblica di San Marino,2023-09-05T05:07:10.800Z,3b66d5ee-1632-4bc5-84ed-b3f833a95f4d,ZZZ,San Marino,sm,283326691184,Repubblica di San Marino,Facebook
 8d171fdb-063c-4bb7-a702-ea47c7fa1046,acarchitetturastudio,2023-07-17T10:10:49.740Z,38092968-8451-4c07-85d6-ba9a5ac24579,ZZZ,San Marino,sm,100486946081617,acarchitetturastudio,Facebook
 dbac447f-3662-4876-891c-d437a8c65547,quarta_di_copertina_,2023-07-22T05:07:59.986Z,d6370bfa-eb3b-465a-822f-ddc6af0d0400,ZZZ,San Marino,sm,108037764198601,quarta_di_copertina_,Facebook
@@ -22,7 +23,6 @@ ce65f4f7-8646-4d6e-8de4-164ad3319e00,Cromaris Italia,2023-04-26T06:53:52.986Z,fa
 f896348c-f1e4-42c7-9d3c-dddf2ff95157,Agave Care,2023-05-06T06:53:26.694Z,30d32282-91cc-48de-aa80-067c4829d9dd,ZZZ,San Marino,sm,100740649593599,Agave Care,Facebook
 c7cf1e82-fbfb-4e20-8832-61912be35ef1,Serghey Magala Lo Zar del Trading,2023-11-09T05:07:03.107Z,c5dbcc57-cc0f-4e4b-bb6e-dd9fcd10e5e0,ZZZ,San Marino,sm,118601064672891,Serghey Magala Lo Zar del Trading,Facebook
 fc7716f7-aac9-480f-aa4d-f82d6b5fed6e,Reggini SpA,2023-03-12T10:53:54.261Z,a628a5e9-ca03-4728-9fd1-bc4994a8d873,ZZZ,San Marino,sm,472664929477572,Reggini SpA,Facebook
-53360c2e-e0cb-46c2-9385-a85bf61b8eeb,Solofakenews - La satira che fa riflettere,2024-01-14T05:06:26.481Z,44a958f6-4b6e-4a3f-9763-817363c9b184,ZZZ,San Marino,sm,158380394036178,Solofakenews - La satira che fa riflettere,Facebook
-d5ac0d84-bcbf-4d6c-af7b-daec356dace2,Cartiera Ciacci,2023-12-16T05:06:56.524Z,966a50d2-6123-44f4-a9e0-2f6a8baa3a39,ZZZ,San Marino,sm,128621190327177,Cartiera Ciacci,Facebook
 7a1d97a3-c581-4018-a65a-c64b68cdee52,Alessandro Lana,2024-01-19T05:06:52.184Z,e856cc6a-4b6a-4e50-b082-5fb4afbc0e15,ZZZ,San Marino,sm,115788111616219,Alessandro Lana,Facebook
 b10565f1-9336-442d-bfe9-fc69b5fa0321,TITANKA! Web Company Spa,2023-12-01T05:07:34.646Z,dc1ac054-aced-449f-8817-5f70a0336e29,ZZZ,San Marino,sm,226645684015510,TITANKA! Web Company Spa,Facebook
+d5ac0d84-bcbf-4d6c-af7b-daec356dace2,Cartiera Ciacci,2023-12-16T05:06:56.524Z,966a50d2-6123-44f4-a9e0-2f6a8baa3a39,ZZZ,San Marino,sm,128621190327177,Cartiera Ciacci,Facebook
